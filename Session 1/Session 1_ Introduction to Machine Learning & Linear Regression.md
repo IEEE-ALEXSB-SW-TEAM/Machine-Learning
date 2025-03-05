@@ -1,8 +1,3 @@
----
-title: 'Session 1: Introduction to Machine Learning & Linear Regression'
-
----
-
 # Session 1: Introduction to Machine Learning & Linear Regression
 
 Welcome to the first session of the Machine Learning Bootcamp! In this session, we’ll cover the basics of machine learning, key concepts, and dive into our first algorithm: **Linear Regression**. By the end of this session, you’ll have a solid understanding of the fundamentals and hands-on experience building your first ML model.
